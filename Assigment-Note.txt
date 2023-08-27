@@ -1,0 +1,7 @@
+Regression:
+linear , RandomForest
+
+
+Classification :
+logistic
+neural network
